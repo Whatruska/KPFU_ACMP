@@ -16,7 +16,7 @@ public class Main {
             btns[btnNum]--;
         }
         for (int btn : btns){
-            if (btn > 0){
+            if (btn >= 0){
                 System.out.println("no");
             } else {
                 System.out.println("yes");
