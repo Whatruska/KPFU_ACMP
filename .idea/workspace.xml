@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98ad92c-dfde-4c4c-aec8-a14131bc4c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Info/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_514/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_792/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_643/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_643/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task_514/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Task_792/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -49,16 +58,17 @@
         <option value="$PROJECT_DIR$/src/Task_678/Main.java" />
         <option value="$PROJECT_DIR$/src/Task_131/Main.java" />
         <option value="$PROJECT_DIR$/src/Task_633/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_643/Main.java" />
         <option value="$PROJECT_DIR$/src/Task_675/Main.java" />
         <option value="$PROJECT_DIR$/src/Info/Main.java" />
         <option value="$PROJECT_DIR$/src/Task_514/Main.java" />
+        <option value="$PROJECT_DIR$/src/Task_643/Main.java" />
+        <option value="$PROJECT_DIR$/src/Task_792/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="104" />
-    <option name="y" value="285" />
+    <option name="x" value="40" />
+    <option name="y" value="23" />
     <option name="width" value="1364" />
     <option name="height" value="877" />
   </component>
@@ -80,6 +90,12 @@
               <item name="acmp" type="b2602c69:ProjectViewProjectNode" />
               <item name="acmp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acmp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task_792" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -116,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_643.Main" />
       <module name="acmp" />
@@ -169,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_633.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_792.Main" />
       <module name="acmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_633.*" />
+          <option name="PATTERN" value="Task_792.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +220,7 @@
       <updated>1568714414667</updated>
       <workItem from="1568714416023" duration="61000" />
       <workItem from="1568714479565" duration="7675000" />
-      <workItem from="1568744578775" duration="1573000" />
+      <workItem from="1568744578775" duration="2191000" />
     </task>
     <task id="LOCAL-00001" summary="First try">
       <created>1568715190816</created>
@@ -241,14 +257,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568733608755</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task_514 and Info added">
+      <created>1568747731167</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568747731167</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9309000" />
+    <option name="totallyTimeSpent" value="9927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="104" y="285" width="1364" height="877" extended-state="0" />
+    <frame x="143" y="23" width="1364" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
@@ -301,7 +324,8 @@
     <MESSAGE value="Two tasks added" />
     <MESSAGE value="-" />
     <MESSAGE value="Tasks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks added" />
+    <MESSAGE value="Task_514 and Info added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_514 and Info added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -330,23 +354,6 @@
     <entry file="file://$PROJECT_DIR$/src/Task_131/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_633/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_643/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Info/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -361,10 +368,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task_633/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task_643/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task_514/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task_792/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
