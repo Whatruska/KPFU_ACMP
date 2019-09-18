@@ -1,6 +1,6 @@
 package Info;
 
-public class Main {
+public class Homework {
     public static void main(String[] args) {
         int N = 6875;
         int total;
