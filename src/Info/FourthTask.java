@@ -6,20 +6,20 @@ public class FourthTask {
 
         System.out.println(x);
 
-        int firstSign = x / 1000000;
-        int thirdSign = x / 10000;
-        thirdSign = thirdSign % 10;
+        int firstSign = x % 10;
+        int thirdSign = x % 1000;
+        thirdSign = thirdSign / 100;
 
         //Меняем первый знак
-        int change = firstSign * 1000000;
+        int change = firstSign;
         x = x - change;
-        change = thirdSign * 1000000;
+        change = thirdSign;
         x = x + change;
 
-        //Меняем второй знак
-        change = thirdSign * 10000;
+        //Меняем третий знак
+        change = thirdSign * 100;
         x = x - change;
-        change = firstSign * 10000;
+        change = firstSign * 100;
         x = x + change;
 
         System.out.println(x);

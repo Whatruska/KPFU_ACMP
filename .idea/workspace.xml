@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98ad92c-dfde-4c4c-aec8-a14131bc4c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Info/FirstTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Info/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Info/SecondTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Info/ThirdTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Info/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Info/FourthTask.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,19 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Info/FirstTask.java">
+        <entry file="file://$PROJECT_DIR$/src/Info/FourthTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Info/ThirdTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="60">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -71,6 +56,7 @@
         <option value="$PROJECT_DIR$/src/Info/SecondTask.java" />
         <option value="$PROJECT_DIR$/src/Info/ThirdTask.java" />
         <option value="$PROJECT_DIR$/src/Info/FirstTask.java" />
+        <option value="$PROJECT_DIR$/src/Info/FourthTask.java" />
       </list>
     </option>
   </component>
@@ -140,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThirdTask">
+  <component name="RunManager" selected="Application.FourthTask">
     <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Info.FirstTask" />
       <module name="acmp" />
@@ -154,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_514.Main" />
+    <configuration name="FourthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Info.FourthTask" />
       <module name="acmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_514.*" />
+          <option name="PATTERN" value="Info.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FourthTask" />
         <item itemvalue="Application.ThirdTask" />
         <item itemvalue="Application.SecondTask" />
         <item itemvalue="Application.FirstTask" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +215,7 @@
       <workItem from="1568714416023" duration="61000" />
       <workItem from="1568714479565" duration="7675000" />
       <workItem from="1568744578775" duration="2448000" />
-      <workItem from="1568785210816" duration="3697000" />
+      <workItem from="1568785210816" duration="4376000" />
     </task>
     <task id="LOCAL-00001" summary="First try">
       <created>1568715190816</created>
@@ -280,17 +266,24 @@
       <option name="project" value="LOCAL" />
       <updated>1568748652343</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lesson tasks">
+      <created>1568788999071</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568788999072</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13881000" />
+    <option name="totallyTimeSpent" value="14560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1364" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,7 +292,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25477707" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25477707" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -373,7 +366,8 @@
     <MESSAGE value="Tasks added" />
     <MESSAGE value="Task_514 and Info added" />
     <MESSAGE value="Task_792 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_792 added" />
+    <MESSAGE value="Lesson tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -456,15 +450,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Info/ThirdTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="240">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Info/FirstTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Info/FourthTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
