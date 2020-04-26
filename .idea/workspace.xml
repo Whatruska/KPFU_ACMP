@@ -2,41 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98ad92c-dfde-4c4c-aec8-a14131bc4c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodeForces/Control_1/Task_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeForces/Control_1/Task_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeForces/Control_2/Task_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeForces/Control_2/Task_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Intern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Learnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/SysAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Workable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_208_PASS/Loader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_322_PASS/Loader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_323_PASS/Loader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_66/Loader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Homework_1/Task_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Homework_1/Task_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Homework_1/Task_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Homework_1/Task_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Homework_1/Task_F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeForces/Homework_1/Task_G.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_274/Loader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_312/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_648/Loader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_675/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/acmp/Task_675/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_678/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_688/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_929/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/acmp/Task_929/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_967/Loader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_274/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_274_SIMPLIFY/Loader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_312/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_312_DROPPED/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_648/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_648_SIMPLIFY/Loader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_675/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_675/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_678/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_678_WRONG/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_688/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_688_SIMPLIFY/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_929/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_929/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_967/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_967_SIMPLIFY/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/META-INF/acmp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_131/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_208_30/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_274_SIMPLIFY/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_312_DROPPED/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_322_28/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_323_30/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_514/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_542/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_59/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_633/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_643/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_648_SIMPLIFY/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_66/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_675/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_678_WRONG/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_688_SIMPLIFY/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_792/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_929/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acmp/Task_967_SIMPLIFY/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_131/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_131/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_208_PASS/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_208_PASS/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_274_SIMPLIFY/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_274_SIMPLIFY/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_312_DROPPED/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_312_DROPPED/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_322_PASS/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_322_PASS/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_323_PASS/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_323_PASS/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_514/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_514/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_542/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_542/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_59_GARAISHIN/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_59_GARAISHIN/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_633/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_633/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_643_ARRRRISHA/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_643_ARRRRISHA/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_648_SIMPLIFY/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_648_SIMPLIFY/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_66/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_66/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_675_ARRRRISHA/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_675_ARRRRISHA/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_678_WRONG/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_678_WRONG/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_688_SIMPLIFY/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_688_SIMPLIFY/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_792/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_792/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_929_ARRRRISHA/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_929_ARRRRISHA/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_967_SIMPLIFY/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmp/Task_967_SIMPLIFY/Loader.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,37 +58,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task_208_PASS/Loader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task_322_PASS/Loader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Task_323_PASS/Loader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,96 +70,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Task_534/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_639/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_312/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_678/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_131/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_633/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_514/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_643/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_792/Main.java" />
-        <option value="$PROJECT_DIR$/src/Info/Main.java" />
-        <option value="$PROJECT_DIR$/src/Info/Homework.java" />
-        <option value="$PROJECT_DIR$/src/Info/SecondTask.java" />
-        <option value="$PROJECT_DIR$/src/Info/FirstTask.java" />
-        <option value="$PROJECT_DIR$/src/Info/FourthTask.java" />
-        <option value="$PROJECT_DIR$/src/Info/Lesson/FourthTask.java" />
-        <option value="$PROJECT_DIR$/src/Info/ThirdTask.java" />
-        <option value="$PROJECT_DIR$/src/Task_2/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_688/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_648/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_542/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_274/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_967/Loadser.java" />
-        <option value="$PROJECT_DIR$/src/Task_967/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_648_SIMPLIFY/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_678_WRONG/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_688_SIMPLIFY/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_967_SIMPLIFY/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_208/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_323/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_323_30/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_322_28/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_66/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_312_DROPPED/Main.java" />
-        <option value="$PROJECT_DIR$/src/CodeForces/Task1.java" />
-        <option value="$PROJECT_DIR$/src/CodeForces/Task_A.java" />
-        <option value="$PROJECT_DIR$/src/CodeForces/Task_B.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Workable.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Work.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Learnable.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Worker.java" />
-        <option value="$PROJECT_DIR$/src/OOP/SysAdmin.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Intern.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Developer.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Company.java" />
-        <option value="$PROJECT_DIR$/src/Task_675/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task_929/Main.java" />
-        <option value="$PROJECT_DIR$/src/CodeForces/Control_2/Task_A.java" />
-        <option value="$PROJECT_DIR$/src/CodeForces/Control_2/Task_B.java" />
-        <option value="$PROJECT_DIR$/src/Task_59/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_322_PASS/Loader.java" />
-        <option value="$PROJECT_DIR$/src/Task_208_PASS/Loader.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="23" />
-    <option name="width" value="1364" />
-    <option name="height" value="877" />
-  </component>
+  <component name="ProjectId" id="1aqUOOOgLQHYKSNj7JRjWvCDjes" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="KPFU_ACMP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KPFU_ACMP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KPFU_ACMP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KPFU_ACMP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -193,45 +95,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Task_B (1)">
-    <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_323_PASS.Loader" />
-      <module name="acmp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task_323_PASS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_274_SIMPLIFY.Loader" />
-      <module name="acmp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task_274_SIMPLIFY.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task_C">
     <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_967_SIMPLIFY.Loader" />
       <module name="acmp" />
@@ -245,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_643_ARRRRISHA.Main" />
+    <configuration name="Task_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeForces.Homework_1.Task_A" />
       <module name="acmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_643_ARRRRISHA.*" />
+          <option name="PATTERN" value="CodeForces.Homework_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_929_ARRRRISHA.Main" />
+    <configuration name="Task_C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeForces.Homework_1.Task_C" />
       <module name="acmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_929_ARRRRISHA.*" />
+          <option name="PATTERN" value="CodeForces.Homework_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_A (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeForces.Control_2.Task_A" />
+    <configuration name="Task_D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeForces.Homework_1.Task_D" />
       <module name="acmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeForces.Control_2.*" />
+          <option name="PATTERN" value="CodeForces.Homework_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_B (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeForces.Control_2.Task_B" />
+    <configuration name="Task_F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeForces.Homework_1.Task_F" />
       <module name="acmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeForces.Control_2.*" />
+          <option name="PATTERN" value="CodeForces.Homework_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeForces.Control_1.Task_B" />
+    <configuration name="Task_G" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeForces.Homework_1.Task_G" />
       <module name="acmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeForces.Control_1.*" />
+          <option name="PATTERN" value="CodeForces.Homework_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_B (1)" />
-        <item itemvalue="Application.Task_A (1)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task_B" />
+        <item itemvalue="Application.Task_C" />
+        <item itemvalue="Application.Task_D" />
+        <item itemvalue="Application.Task_A" />
+        <item itemvalue="Application.Task_G" />
+        <item itemvalue="Application.Task_F" />
       </list>
     </recent_temporary>
   </component>
@@ -353,6 +217,13 @@
       <workItem from="1577167849895" duration="2313000" />
       <workItem from="1577172973975" duration="2247000" />
       <workItem from="1577195877510" duration="1020000" />
+      <workItem from="1587462586297" duration="12953000" />
+      <workItem from="1587476204851" duration="25000" />
+      <workItem from="1587539006326" duration="3378000" />
+      <workItem from="1587568805041" duration="5000" />
+      <workItem from="1587579605978" duration="3471000" />
+      <workItem from="1587818976043" duration="642000" />
+      <workItem from="1587840442712" duration="7114000" />
     </task>
     <task id="LOCAL-00001" summary="First try">
       <created>1568715190816</created>
@@ -441,76 +312,8 @@
     <option name="localTasksCounter" value="13" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39320000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="46" y="23" width="1364" height="877" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34266263" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25477707" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32866243" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3299363" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33282906" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25477707" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32866243" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3299363" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -537,332 +340,122 @@
     <MESSAGE value="Task_688 added" />
     <option name="LAST_COMMIT_MESSAGE" value="Task_688 added" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="250" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1587843252049">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="734" y="250" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1600.860@0.0.1600.860" timestamp="1587843252049" />
+    <state width="1091" height="153" key="GridCell.Tab.0.bottom" timestamp="1587901505913">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1091" height="153" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587901505913" />
+    <state width="1091" height="153" key="GridCell.Tab.0.center" timestamp="1587901505913">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1091" height="153" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1587901505913" />
+    <state width="1091" height="153" key="GridCell.Tab.0.left" timestamp="1587901505913">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1091" height="153" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1587901505913" />
+    <state width="1091" height="153" key="GridCell.Tab.0.right" timestamp="1587901505913">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1091" height="153" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587901505913" />
+    <state width="1091" height="256" key="GridCell.Tab.1.bottom" timestamp="1587901505730">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1091" height="256" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587901505730" />
+    <state width="1091" height="256" key="GridCell.Tab.1.center" timestamp="1587901505730">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1091" height="256" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1587901505730" />
+    <state width="1091" height="256" key="GridCell.Tab.1.left" timestamp="1587901505730">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1091" height="256" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1587901505730" />
+    <state width="1091" height="256" key="GridCell.Tab.1.right" timestamp="1587901505730">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1091" height="256" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1587901505730" />
+    <state x="420" y="192" key="run.anything.popup" timestamp="1587475419605">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="420" y="192" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1587475419605" />
+    <state x="508" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587539317662">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="508" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1587539317662" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Task_639/Main.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Task_688_SIMPLIFY/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/acmp/Task_688_SIMPLIFY/Main.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Task_542/Loader.java</url>
+          <url>file://$PROJECT_DIR$/src/acmp/Task_542/Loader.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Task_274_SIMPLIFY/Loader.java</url>
+          <url>file://$PROJECT_DIR$/src/acmp/Task_274_SIMPLIFY/Loader.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Task_967_SIMPLIFY/Loader.java</url>
+          <url>file://$PROJECT_DIR$/src/acmp/Task_967_SIMPLIFY/Loader.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Task_208_PASS/Loader.java</url>
+          <url>file://$PROJECT_DIR$/src/acmp/Task_208_PASS/Loader.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Task_322_PASS/Loader.java</url>
+          <url>file://$PROJECT_DIR$/src/acmp/Task_322_PASS/Loader.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CodeForces/Control_1/Task_B.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Task_643/Main.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CodeForces/Control_2/Task_A.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CodeForces/Homework_1/Task_B.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CodeForces/Homework_1/Task_F.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CodeForces/Homework_1/Task_D.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Task_534/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task_639/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Info/Lessons/FirstTask.java" />
-    <entry file="file://$PROJECT_DIR$/src/Info/Lessons/FourthTask.java" />
-    <entry file="file://$PROJECT_DIR$/src/Info/Lessons/Homework.java" />
-    <entry file="file://$PROJECT_DIR$/src/Info/Lessons/SecondTask.java" />
-    <entry file="file://$PROJECT_DIR$/src/Info/Lessons/ThirdTask.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task_2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_131/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_514/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_542/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_633/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_678_WRONG/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_792/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_648_SIMPLIFY/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_688_SIMPLIFY/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_66/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_967_SIMPLIFY/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeForces/Task1.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task_312_DROPPED/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Company.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Workable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Learnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Developer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/SysAdmin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Intern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeForces/Control_1/Task_A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_643/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeForces/Control_1/Task_B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_675/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_929/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeForces/Control_2/Task_B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding>
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1266#1267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodeForces/Control_2/Task_A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_274_SIMPLIFY/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_59/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_208_PASS/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_322_PASS/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_323_PASS/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
